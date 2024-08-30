@@ -1,4 +1,4 @@
-# Hermes -> Herman: Adaptasi Bahasa Indonesia
+# [Hermes -> Herman: Adaptasi Bahasa Indonesia](https://huggingface.co/datasets/SulthanAbiyyu/herman-json-mode)
 
 **Herman** adalah dataset berbahasa Indonesia yang dirancang khusus untuk pelatihan LLM menggunakan mode JSON single-turn. Dataset ini digunakan dalam pelatihan Supervised Fine-Tuning (SFT) untuk meningkatkan kemampuan parsing JSON pada LLM. Herman diperoleh dari [Hermes](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1) dan diterjemahkan ke dalam bahasa Indonesia untuk keperluan pelatihan model bahasa Indonesia.
 
@@ -45,7 +45,7 @@ Skema JSON yang diinginkan dapat dimasukkan ke dalam system prompt dengan menggu
 
 ---
 
-# Hermes -> Herman: Indonesian Adaptation
+# [Hermes -> Herman: Indonesian Adaptation](https://huggingface.co/datasets/SulthanAbiyyu/herman-json-mode)
 
 **Herman** is an Indonesian language dataset specifically designed for training LLMs using a single-turn JSON mode. This dataset is used in Supervised Fine-Tuning (SFT) to improve JSON parsing capabilities in LLMs. Herman was obtained from [Hermes](https://huggingface.co/datasets/NousResearch/hermes-function-calling-v1) and translated into Indonesian for the purpose of training Indonesian language models.
 
