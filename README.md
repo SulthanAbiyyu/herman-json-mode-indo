@@ -84,4 +84,4 @@ The desired JSON schema can be included in the system prompt using the `<schema>
 
 ## Wujud Herman
 
-[pov herman](./imgs/cool.png)
+![pov herman](./imgs/cool.png)
